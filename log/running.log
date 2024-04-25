@@ -1,0 +1,659 @@
+2024-04-21 09:40:42,351 ERROR [root] [Logging.py:46] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 09:40:43,373 ERROR [root] [Logging.py:46] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 09:40:44,390 ERROR [root] [Logging.py:46] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 10:30:39,666 ERROR [root] [Logging.py:46] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 10:30:40,691 ERROR [root] [Logging.py:46] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 10:30:41,696 ERROR [root] [Logging.py:46] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 10:32:06,000 ERROR [root] [Logging.py:71] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 10:32:07,055 ERROR [root] [Logging.py:71] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 10:32:08,082 ERROR [root] [Logging.py:71] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 10:35:13,170 INFO [root] [Logging.py:74] - Started
+2024-04-21 10:35:13,170 INFO [root] [Logging.py:74] - ./target
+2024-04-21 10:35:14,051 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'hdlr'>
+2024-04-21 10:35:14,051 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'dinf'>
+2024-04-21 10:35:14,051 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'pitm'>
+2024-04-21 10:35:14,052 DEBUG [exifread] [heic.py:191] - HEIC: found Exif 'infe' box
+2024-04-21 10:35:14,052 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'iref'>
+2024-04-21 10:35:14,052 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'iprp'>
+2024-04-21 10:35:14,053 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'idat'>
+2024-04-21 10:35:14,053 DEBUG [exifread] [heic.py:210] - HEIC: 51 iloc items
+2024-04-21 10:35:14,053 DEBUG [exifread] [heic.py:242] - HEIC: found Exif location.
+2024-04-21 10:35:14,053 DEBUG [exifread] [__init__.py:261] - Endian format is M (Motorola)
+2024-04-21 10:35:14,053 DEBUG [exifread] [__init__.py:280] - IFD 0 (Image) at offset 8:
+2024-04-21 10:35:14,054 DEBUG [exifread] [classes.py:289] -  Make: (0x010F) ASCII=Apple @ 146
+2024-04-21 10:35:14,054 DEBUG [exifread] [classes.py:289] -  Model: (0x0110) ASCII=iPhone 11 @ 152
+2024-04-21 10:35:14,054 DEBUG [exifread] [classes.py:289] -  Orientation: (0x0112) Short=Rotated 90 CW @ 42
+2024-04-21 10:35:14,054 DEBUG [exifread] [classes.py:289] -  XResolution: (0x011A) Ratio=72 @ 162
+2024-04-21 10:35:14,054 DEBUG [exifread] [classes.py:289] -  YResolution: (0x011B) Ratio=72 @ 170
+2024-04-21 10:35:14,054 DEBUG [exifread] [classes.py:289] -  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 78
+2024-04-21 10:35:14,054 DEBUG [exifread] [classes.py:289] -  Software: (0x0131) ASCII=17.3.1 @ 178
+2024-04-21 10:35:14,055 DEBUG [exifread] [classes.py:289] -  DateTime: (0x0132) ASCII=2024:04:01 10:12:00 @ 186
+2024-04-21 10:35:14,055 DEBUG [exifread] [classes.py:289] -  HostComputer: (0x013C) ASCII=iPhone 11 @ 206
+2024-04-21 10:35:14,055 DEBUG [exifread] [classes.py:289] -  ExifOffset: (0x8769) Long=216 @ 126
+2024-04-21 10:35:14,055 DEBUG [exifread] [classes.py:269] - GPS SubIFD at offset 2302:
+2024-04-21 10:35:14,055 DEBUG [exifread] [classes.py:289] -  GPSLatitudeRef: (0x0001) ASCII=N @ 2312
+2024-04-21 10:35:14,055 DEBUG [exifread] [classes.py:289] -  GPSLatitude: (0x0002) Ratio=[37, 33, 1379/100] @ 2488
+2024-04-21 10:35:14,055 DEBUG [exifread] [classes.py:289] -  GPSLongitudeRef: (0x0003) ASCII=E @ 2336
+2024-04-21 10:35:14,055 DEBUG [exifread] [classes.py:289] -  GPSLongitude: (0x0004) Ratio=[126, 52, 411/50] @ 2512
+2024-04-21 10:35:14,056 DEBUG [exifread] [classes.py:289] -  GPSAltitudeRef: (0x0005) Byte=0 @ 2360
+2024-04-21 10:35:14,056 DEBUG [exifread] [classes.py:289] -  GPSAltitude: (0x0006) Ratio=308887/9345 @ 2536
+2024-04-21 10:35:14,056 DEBUG [exifread] [classes.py:289] -  GPSTimeStamp: (0x0007) Ratio=[1, 11, 5039/100] @ 2544
+2024-04-21 10:35:14,056 DEBUG [exifread] [classes.py:289] -  GPSSpeedRef: (0x000C) ASCII=K @ 2396
+2024-04-21 10:35:14,056 DEBUG [exifread] [classes.py:289] -  GPSSpeed: (0x000D) Ratio=0 @ 2568
+2024-04-21 10:35:14,056 DEBUG [exifread] [classes.py:289] -  GPSImgDirectionRef: (0x0010) ASCII=T @ 2420
+2024-04-21 10:35:14,056 DEBUG [exifread] [classes.py:289] -  GPSImgDirection: (0x0011) Ratio=64762/3059 @ 2576
+2024-04-21 10:35:14,057 DEBUG [exifread] [classes.py:289] -  GPSDestBearingRef: (0x0017) ASCII=T @ 2444
+2024-04-21 10:35:14,057 DEBUG [exifread] [classes.py:289] -  GPSDestBearing: (0x0018) Ratio=64762/3059 @ 2584
+2024-04-21 10:35:14,057 DEBUG [exifread] [classes.py:289] -  GPSDate: (0x001D) ASCII=2024:04:01 @ 2592
+2024-04-21 10:35:14,057 DEBUG [exifread] [classes.py:289] -  Tag 0x001F: (0x001F) Ratio=187577/6173 @ 2604
+2024-04-21 10:35:14,057 DEBUG [exifread] [classes.py:289] -  GPSInfo: (0x8825) Long=2302 @ 138
+2024-04-21 10:35:14,057 DEBUG [exifread] [__init__.py:286] - Exif SubIFD at offset 216:
+2024-04-21 10:35:14,057 DEBUG [exifread] [classes.py:289] -  ExposureTime: (0x829A) Ratio=1/120 @ 618
+2024-04-21 10:35:14,057 DEBUG [exifread] [classes.py:289] -  FNumber: (0x829D) Ratio=9/5 @ 626
+2024-04-21 10:35:14,058 DEBUG [exifread] [classes.py:289] -  ExposureProgram: (0x8822) Short=Program Normal @ 250
+2024-04-21 10:35:14,058 DEBUG [exifread] [classes.py:289] -  ISOSpeedRatings: (0x8827) Short=50 @ 262
+2024-04-21 10:35:14,058 DEBUG [exifread] [classes.py:289] -  ExifVersion: (0x9000) Undefined=0232 @ 274
+2024-04-21 10:35:14,058 DEBUG [exifread] [classes.py:289] -  DateTimeOriginal: (0x9003) ASCII=2024:04:01 10:12:00 @ 634
+2024-04-21 10:35:14,058 DEBUG [exifread] [classes.py:289] -  DateTimeDigitized: (0x9004) ASCII=2024:04:01 10:12:00 @ 654
+2024-04-21 10:35:14,058 DEBUG [exifread] [classes.py:289] -  OffsetTime: (0x9010) ASCII=+09:00 @ 674
+2024-04-21 10:35:14,058 DEBUG [exifread] [classes.py:289] -  OffsetTimeOriginal: (0x9011) ASCII=+09:00 @ 682
+2024-04-21 10:35:14,058 DEBUG [exifread] [classes.py:289] -  OffsetTimeDigitized: (0x9012) ASCII=+09:00 @ 690
+2024-04-21 10:35:14,059 DEBUG [exifread] [classes.py:289] -  ShutterSpeedValue: (0x9201) Signed Ratio=222125/32154 @ 698
+2024-04-21 10:35:14,059 DEBUG [exifread] [classes.py:289] -  ApertureValue: (0x9202) Ratio=54823/32325 @ 706
+2024-04-21 10:35:14,059 DEBUG [exifread] [classes.py:289] -  BrightnessValue: (0x9203) Signed Ratio=33493/6366 @ 714
+2024-04-21 10:35:14,059 DEBUG [exifread] [classes.py:289] -  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 722
+2024-04-21 10:35:14,059 DEBUG [exifread] [classes.py:289] -  MeteringMode: (0x9207) Short=Pattern @ 394
+2024-04-21 10:35:14,059 DEBUG [exifread] [classes.py:289] -  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 406
+2024-04-21 10:35:14,059 DEBUG [exifread] [classes.py:289] -  FocalLength: (0x920A) Ratio=17/4 @ 730
+2024-04-21 10:35:14,060 DEBUG [exifread] [classes.py:289] -  SubjectArea: (0x9214) Short=[1959, 1470, 2164, 1360] @ 738
+2024-04-21 10:35:14,064 DEBUG [exifread] [classes.py:289] -  MakerNote: (0x927C) Undefined=[65, 112, 112, 108, 101, 32, 105, 79, 83, 0, 0, 1, 77, 77, 0, 42, 0, 1, 0, 9, ... ] @ 746
+2024-04-21 10:35:14,064 DEBUG [exifread] [classes.py:289] -  SubSecTimeOriginal: (0x9291) ASCII=081 @ 454
+2024-04-21 10:35:14,064 DEBUG [exifread] [classes.py:289] -  SubSecTimeDigitized: (0x9292) ASCII=081 @ 466
+2024-04-21 10:35:14,064 DEBUG [exifread] [classes.py:289] -  ColorSpace: (0xA001) Short=Uncalibrated @ 478
+2024-04-21 10:35:14,064 DEBUG [exifread] [classes.py:289] -  ExifImageWidth: (0xA002) Long=4032 @ 490
+2024-04-21 10:35:14,064 DEBUG [exifread] [classes.py:289] -  ExifImageLength: (0xA003) Long=3024 @ 502
+2024-04-21 10:35:14,065 DEBUG [exifread] [classes.py:289] -  SensingMethod: (0xA217) Short=One-chip color area @ 514
+2024-04-21 10:35:14,065 DEBUG [exifread] [classes.py:289] -  SceneType: (0xA301) Undefined=Directly Photographed @ 526
+2024-04-21 10:35:14,065 DEBUG [exifread] [classes.py:289] -  ExposureMode: (0xA402) Short=Auto Exposure @ 538
+2024-04-21 10:35:14,065 DEBUG [exifread] [classes.py:289] -  WhiteBalance: (0xA403) Short=Auto @ 550
+2024-04-21 10:35:14,065 DEBUG [exifread] [classes.py:289] -  FocalLengthIn35mmFilm: (0xA405) Short=25 @ 562
+2024-04-21 10:35:14,065 DEBUG [exifread] [classes.py:289] -  LensSpecification: (0xA432) Ratio=[807365/524263, 17/4, 9/5, 12/5] @ 2218
+2024-04-21 10:35:14,065 DEBUG [exifread] [classes.py:289] -  LensMake: (0xA433) ASCII=Apple @ 2250
+2024-04-21 10:35:14,066 DEBUG [exifread] [classes.py:289] -  LensModel: (0xA434) ASCII=iPhone 11 back dual wide camera 4.25mm f/1.8 @ 2256
+2024-04-21 10:35:14,066 DEBUG [exifread] [classes.py:289] -  Tag 0xA460: (0xA460) Short=2 @ 610
+2024-04-21 10:35:14,066 DEBUG [exifread] [classes.py:289] -  Tag 0x0001: (0x0001) Signed Long=14 @ 10
+2024-04-21 10:35:14,068 DEBUG [exifread] [classes.py:289] -  Tag 0x0002: (0x0002) Undefined=[39, 0, 32, 0, 34, 0, 38, 0, 44, 0, 49, 0, 53, 0, 53, 0, 53, 0, 76, 0, ... ] @ 524
+2024-04-21 10:35:14,068 DEBUG [exifread] [classes.py:289] -  Tag 0x0003: (0x0003) Undefined=[6, 7, 8, 85, 102, 108, 97, 103, 115, 85, 118, 97, 108, 117, 101, 89, 116, 105, 109, 101, ... ] @ 1036
+2024-04-21 10:35:14,068 DEBUG [exifread] [classes.py:289] -  Tag 0x0004: (0x0004) Signed Long=1 @ 46
+2024-04-21 10:35:14,068 DEBUG [exifread] [classes.py:289] -  Tag 0x0005: (0x0005) Signed Long=181 @ 58
+2024-04-21 10:35:14,068 DEBUG [exifread] [classes.py:289] -  Tag 0x0006: (0x0006) Signed Long=181 @ 70
+2024-04-21 10:35:14,068 DEBUG [exifread] [classes.py:289] -  Tag 0x0007: (0x0007) Signed Long=1 @ 82
+2024-04-21 10:35:14,069 DEBUG [exifread] [classes.py:289] -  Tag 0x0008: (0x0008) Signed Ratio=[-496631807/641007616, 9735/19, 64/99] @ 1140
+2024-04-21 10:35:14,069 DEBUG [exifread] [classes.py:289] -  Tag 0x000C: (0x000C) Signed Ratio=[1048576/549, 67112487/105295456] @ 1164
+2024-04-21 10:35:14,069 DEBUG [exifread] [classes.py:289] -  Tag 0x000D: (0x000D) Signed Long=24 @ 118
+2024-04-21 10:35:14,069 DEBUG [exifread] [classes.py:289] -  Tag 0x000E: (0x000E) Signed Long=0 @ 130
+2024-04-21 10:35:14,069 DEBUG [exifread] [classes.py:289] -  Tag 0x0010: (0x0010) Signed Long=1 @ 142
+2024-04-21 10:35:14,069 DEBUG [exifread] [classes.py:289] -  Tag 0x0014: (0x0014) Signed Long=10 @ 154
+2024-04-21 10:35:14,069 DEBUG [exifread] [classes.py:289] -  Tag 0x0019: (0x0019) Signed Long=2 @ 178
+2024-04-21 10:35:14,069 DEBUG [exifread] [classes.py:289] -  Tag 0x001A: (0x001A) ASCII=-0AEC- @ 1188
+2024-04-21 10:35:14,070 DEBUG [exifread] [classes.py:289] -  Tag 0x001F: (0x001F) Signed Long=0 @ 202
+2024-04-21 10:35:14,070 DEBUG [exifread] [classes.py:289] -  Tag 0x0020: (0x0020) ASCII=42DE-9FC4-71F62AF72A9B @ 1194
+2024-04-21 10:35:14,070 DEBUG [exifread] [classes.py:289] -  Tag 0x0021: (0x0021) Signed Ratio=3866624/0 @ 1231
+2024-04-21 10:35:14,070 DEBUG [exifread] [classes.py:289] -  Tag 0x0023: (0x0023) Signed Long=[9043969, -661848064] @ 1239
+2024-04-21 10:35:14,070 DEBUG [exifread] [classes.py:289] -  Tag 0x0026: (0x0026) Signed Long=3 @ 262
+2024-04-21 10:35:14,070 DEBUG [exifread] [classes.py:289] -  Tag 0x0027: (0x0027) Signed Ratio=876817716/809579309 @ 1255
+2024-04-21 10:35:14,070 DEBUG [exifread] [classes.py:289] -  Tag 0x0028: (0x0028) Signed Long=1 @ 286
+2024-04-21 10:35:14,071 DEBUG [exifread] [classes.py:289] -  Tag 0x002B: (0x002B) ASCII=447F-AE59-17C370E44034 @ 1263
+2024-04-21 10:35:14,071 DEBUG [exifread] [classes.py:289] -  Tag 0x002D: (0x002D) Signed Long=5940 @ 310
+2024-04-21 10:35:14,071 DEBUG [exifread] [classes.py:289] -  Tag 0x002E: (0x002E) Signed Long=1 @ 322
+2024-04-21 10:35:14,071 DEBUG [exifread] [classes.py:289] -  Tag 0x002F: (0x002F) Signed Long=172 @ 334
+2024-04-21 10:35:14,071 DEBUG [exifread] [classes.py:289] -  Tag 0x0033: (0x0033) Signed Long=4096 @ 346
+2024-04-21 10:35:14,071 DEBUG [exifread] [classes.py:289] -  Tag 0x0034: (0x0034) Signed Long=4 @ 358
+2024-04-21 10:35:14,071 DEBUG [exifread] [classes.py:289] -  Tag 0x0035: (0x0035) Signed Long=3 @ 370
+2024-04-21 10:35:14,071 DEBUG [exifread] [classes.py:289] -  Tag 0x0036: (0x0036) Signed Long=2515 @ 382
+2024-04-21 10:35:14,072 DEBUG [exifread] [classes.py:289] -  Tag 0x0037: (0x0037) Signed Long=4 @ 394
+2024-04-21 10:35:14,072 DEBUG [exifread] [classes.py:289] -  Tag 0x003A: (0x003A) Signed Long=4 @ 406
+2024-04-21 10:35:14,072 DEBUG [exifread] [classes.py:289] -  Tag 0x003B: (0x003B) Signed Long=1 @ 418
+2024-04-21 10:35:14,072 DEBUG [exifread] [classes.py:289] -  Tag 0x003C: (0x003C) Signed Long=4 @ 430
+2024-04-21 10:35:14,072 DEBUG [exifread] [classes.py:289] -  Tag 0x0041: (0x0041) Signed Long=0 @ 442
+2024-04-21 10:35:14,072 DEBUG [exifread] [classes.py:289] -  Tag 0x004A: (0x004A) Signed Long=2 @ 454
+2024-04-21 10:35:14,072 DEBUG [exifread] [classes.py:289] -  Tag 0x004D: (0x004D) Signed Ratio=808505857/33752145 @ 1300
+2024-04-21 10:35:14,073 DEBUG [exifread] [classes.py:289] -  Tag 0x004E: (0x004E) Undefined=[49, 81, 50, 16, 1, 162, 5, 10, 210, 6, 7, 8, 9, 83, 50, 46, 49, 83, 50, 46, ... ] @ 1308
+2024-04-21 10:35:14,073 DEBUG [exifread] [classes.py:289] -  Tag 0x004F: (0x004F) Undefined=[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 12, 81, 197, 0, 7, 255, 231, 0, 0, 0, 17, 0, 0] @ 1429
+2024-04-21 10:35:14,073 DEBUG [exifread] [classes.py:289] -  Tag 0x0053: (0x0053) Signed Long=1 @ 502
+2024-04-21 10:35:14,073 DEBUG [root] [Logging.py:71] - Image Make:Apple
+2024-04-21 10:35:14,073 DEBUG [root] [Logging.py:71] - Image Model:iPhone 11
+2024-04-21 10:35:14,073 DEBUG [root] [Logging.py:71] - Image Orientation:Rotated 90 CW
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - Image XResolution:72
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - Image YResolution:72
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - Image ResolutionUnit:Pixels/Inch
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - Image Software:17.3.1
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - Image DateTime:2024:04:01 10:12:00
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - Image HostComputer:iPhone 11
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - Image ExifOffset:216
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - GPS GPSLatitudeRef:N
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - GPS GPSLatitude:[37, 33, 1379/100]
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - GPS GPSLongitudeRef:E
+2024-04-21 10:35:14,074 DEBUG [root] [Logging.py:71] - GPS GPSLongitude:[126, 52, 411/50]
+2024-04-21 10:35:14,075 DEBUG [root] [Logging.py:71] - GPS GPSAltitudeRef:0
+2024-04-21 10:35:14,075 DEBUG [root] [Logging.py:71] - GPS GPSAltitude:308887/9345
+2024-04-21 10:35:14,075 DEBUG [root] [Logging.py:71] - GPS GPSTimeStamp:[1, 11, 5039/100]
+2024-04-21 10:35:14,075 DEBUG [root] [Logging.py:71] - GPS GPSSpeedRef:K
+2024-04-21 10:35:14,075 DEBUG [root] [Logging.py:71] - GPS GPSSpeed:0
+2024-04-21 10:35:14,075 DEBUG [root] [Logging.py:71] - GPS GPSImgDirectionRef:T
+2024-04-21 10:35:14,075 DEBUG [root] [Logging.py:71] - GPS GPSImgDirection:64762/3059
+2024-04-21 10:35:14,075 DEBUG [root] [Logging.py:71] - GPS GPSDestBearingRef:T
+2024-04-21 10:35:14,075 DEBUG [root] [Logging.py:71] - GPS GPSDestBearing:64762/3059
+2024-04-21 10:35:14,075 DEBUG [root] [Logging.py:71] - GPS GPSDate:2024:04:01
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - GPS Tag 0x001F:187577/6173
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - Image GPSInfo:2302
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - EXIF ExposureTime:1/120
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - EXIF FNumber:9/5
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - EXIF ExposureProgram:Program Normal
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - EXIF ISOSpeedRatings:50
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - EXIF ExifVersion:0232
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - EXIF DateTimeOriginal:2024:04:01 10:12:00
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - DateTimeOriginal : 2024:04:01 10:12:00
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - EXIF DateTimeDigitized:2024:04:01 10:12:00
+2024-04-21 10:35:14,076 DEBUG [root] [Logging.py:71] - EXIF OffsetTime:+09:00
+2024-04-21 10:35:14,077 DEBUG [root] [Logging.py:71] - EXIF OffsetTimeOriginal:+09:00
+2024-04-21 10:35:14,077 DEBUG [root] [Logging.py:71] - EXIF OffsetTimeDigitized:+09:00
+2024-04-21 10:35:14,077 DEBUG [root] [Logging.py:71] - EXIF ShutterSpeedValue:222125/32154
+2024-04-21 10:35:14,077 DEBUG [root] [Logging.py:71] - EXIF ApertureValue:54823/32325
+2024-04-21 10:35:14,077 DEBUG [root] [Logging.py:71] - EXIF BrightnessValue:33493/6366
+2024-04-21 10:35:14,077 DEBUG [root] [Logging.py:71] - EXIF ExposureBiasValue:0
+2024-04-21 10:35:14,077 DEBUG [root] [Logging.py:71] - EXIF MeteringMode:Pattern
+2024-04-21 10:35:14,077 DEBUG [root] [Logging.py:71] - EXIF Flash:Flash did not fire, compulsory flash mode
+2024-04-21 10:35:14,077 DEBUG [root] [Logging.py:71] - EXIF FocalLength:17/4
+2024-04-21 10:35:14,077 DEBUG [root] [Logging.py:71] - EXIF SubjectArea:[1959, 1470, 2164, 1360]
+2024-04-21 10:35:14,078 DEBUG [root] [Logging.py:71] - EXIF MakerNote:[65, 112, 112, 108, 101, 32, 105, 79, 83, 0, 0, 1, 77, 77, 0, 42, 0, 1, 0, 9, ... ]
+2024-04-21 10:35:14,078 DEBUG [root] [Logging.py:71] - EXIF SubSecTimeOriginal:081
+2024-04-21 10:35:14,078 DEBUG [root] [Logging.py:71] - EXIF SubSecTimeDigitized:081
+2024-04-21 10:35:14,078 DEBUG [root] [Logging.py:71] - EXIF ColorSpace:Uncalibrated
+2024-04-21 10:35:14,078 DEBUG [root] [Logging.py:71] - EXIF ExifImageWidth:4032
+2024-04-21 10:35:14,078 DEBUG [root] [Logging.py:71] - EXIF ExifImageLength:3024
+2024-04-21 10:35:14,078 DEBUG [root] [Logging.py:71] - EXIF SensingMethod:One-chip color area
+2024-04-21 10:35:14,078 DEBUG [root] [Logging.py:71] - EXIF SceneType:Directly Photographed
+2024-04-21 10:35:14,078 DEBUG [root] [Logging.py:71] - EXIF ExposureMode:Auto Exposure
+2024-04-21 10:35:14,078 DEBUG [root] [Logging.py:71] - EXIF WhiteBalance:Auto
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - EXIF FocalLengthIn35mmFilm:25
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - EXIF LensSpecification:[807365/524263, 17/4, 9/5, 12/5]
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - EXIF LensMake:Apple
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - EXIF LensModel:iPhone 11 back dual wide camera 4.25mm f/1.8
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - EXIF Tag 0xA460:2
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0001:14
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0002:[39, 0, 32, 0, 34, 0, 38, 0, 44, 0, 49, 0, 53, 0, 53, 0, 53, 0, 76, 0, ... ]
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0003:[6, 7, 8, 85, 102, 108, 97, 103, 115, 85, 118, 97, 108, 117, 101, 89, 116, 105, 109, 101, ... ]
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0004:1
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0005:181
+2024-04-21 10:35:14,079 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0006:181
+2024-04-21 10:35:14,080 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0007:1
+2024-04-21 10:35:14,080 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0008:[-496631807/641007616, 9735/19, 64/99]
+2024-04-21 10:35:14,080 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x000C:[1048576/549, 67112487/105295456]
+2024-04-21 10:35:14,080 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x000D:24
+2024-04-21 10:35:14,080 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x000E:0
+2024-04-21 10:35:14,080 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0010:1
+2024-04-21 10:35:14,080 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0014:10
+2024-04-21 10:35:14,080 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0019:2
+2024-04-21 10:35:14,080 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x001A:-0AEC-
+2024-04-21 10:35:14,080 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x001F:0
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0020:42DE-9FC4-71F62AF72A9B
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0021:3866624/0
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0023:[9043969, -661848064]
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0026:3
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0027:876817716/809579309
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0028:1
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002B:447F-AE59-17C370E44034
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002D:5940
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002E:1
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002F:172
+2024-04-21 10:35:14,081 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0033:4096
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0034:4
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0035:3
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0036:2515
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0037:4
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x003A:4
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x003B:1
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x003C:4
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0041:0
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004A:2
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004D:808505857/33752145
+2024-04-21 10:35:14,082 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004E:[49, 81, 50, 16, 1, 162, 5, 10, 210, 6, 7, 8, 9, 83, 50, 46, 49, 83, 50, 46, ... ]
+2024-04-21 10:35:14,083 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004F:[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 12, 81, 197, 0, 7, 255, 231, 0, 0, 0, 17, 0, 0]
+2024-04-21 10:35:14,083 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0053:1
+2024-04-21 10:35:14,250 INFO [root] [Logging.py:74] - Converted ./target/IMG_5581.HEIC to ./target/IMG_5581.jpg
+2024-04-21 10:35:14,257 INFO [root] [Logging.py:74] - ./target
+2024-04-21 10:35:14,257 ERROR [root] [Logging.py:77] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 10:35:14,257 INFO [root] [Logging.py:74] - ./target
+2024-04-21 10:35:15,136 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'hdlr'>
+2024-04-21 10:35:15,137 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'dinf'>
+2024-04-21 10:35:15,137 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'pitm'>
+2024-04-21 10:35:15,138 DEBUG [exifread] [heic.py:191] - HEIC: found Exif 'infe' box
+2024-04-21 10:35:15,138 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'iref'>
+2024-04-21 10:35:15,138 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'iprp'>
+2024-04-21 10:35:15,138 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'idat'>
+2024-04-21 10:35:15,138 DEBUG [exifread] [heic.py:210] - HEIC: 51 iloc items
+2024-04-21 10:35:15,139 DEBUG [exifread] [heic.py:242] - HEIC: found Exif location.
+2024-04-21 10:35:15,139 DEBUG [exifread] [__init__.py:261] - Endian format is M (Motorola)
+2024-04-21 10:35:15,139 DEBUG [exifread] [__init__.py:280] - IFD 0 (Image) at offset 8:
+2024-04-21 10:35:15,139 DEBUG [exifread] [classes.py:289] -  Make: (0x010F) ASCII=Apple @ 146
+2024-04-21 10:35:15,139 DEBUG [exifread] [classes.py:289] -  Model: (0x0110) ASCII=iPhone 11 @ 152
+2024-04-21 10:35:15,139 DEBUG [exifread] [classes.py:289] -  Orientation: (0x0112) Short=Rotated 90 CW @ 42
+2024-04-21 10:35:15,140 DEBUG [exifread] [classes.py:289] -  XResolution: (0x011A) Ratio=72 @ 162
+2024-04-21 10:35:15,140 DEBUG [exifread] [classes.py:289] -  YResolution: (0x011B) Ratio=72 @ 170
+2024-04-21 10:35:15,140 DEBUG [exifread] [classes.py:289] -  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 78
+2024-04-21 10:35:15,140 DEBUG [exifread] [classes.py:289] -  Software: (0x0131) ASCII=17.3.1 @ 178
+2024-04-21 10:35:15,140 DEBUG [exifread] [classes.py:289] -  DateTime: (0x0132) ASCII=2024:04:01 10:12:19 @ 186
+2024-04-21 10:35:15,140 DEBUG [exifread] [classes.py:289] -  HostComputer: (0x013C) ASCII=iPhone 11 @ 206
+2024-04-21 10:35:15,140 DEBUG [exifread] [classes.py:289] -  ExifOffset: (0x8769) Long=216 @ 126
+2024-04-21 10:35:15,140 DEBUG [exifread] [classes.py:269] - GPS SubIFD at offset 2302:
+2024-04-21 10:35:15,141 DEBUG [exifread] [classes.py:289] -  GPSLatitudeRef: (0x0001) ASCII=N @ 2312
+2024-04-21 10:35:15,141 DEBUG [exifread] [classes.py:289] -  GPSLatitude: (0x0002) Ratio=[37, 33, 1379/100] @ 2488
+2024-04-21 10:35:15,141 DEBUG [exifread] [classes.py:289] -  GPSLongitudeRef: (0x0003) ASCII=E @ 2336
+2024-04-21 10:35:15,141 DEBUG [exifread] [classes.py:289] -  GPSLongitude: (0x0004) Ratio=[126, 52, 411/50] @ 2512
+2024-04-21 10:35:15,141 DEBUG [exifread] [classes.py:289] -  GPSAltitudeRef: (0x0005) Byte=0 @ 2360
+2024-04-21 10:35:15,141 DEBUG [exifread] [classes.py:289] -  GPSAltitude: (0x0006) Ratio=104959/3120 @ 2536
+2024-04-21 10:35:15,141 DEBUG [exifread] [classes.py:289] -  GPSTimeStamp: (0x0007) Ratio=[1, 12, 579/100] @ 2544
+2024-04-21 10:35:15,142 DEBUG [exifread] [classes.py:289] -  GPSSpeedRef: (0x000C) ASCII=K @ 2396
+2024-04-21 10:35:15,142 DEBUG [exifread] [classes.py:289] -  GPSSpeed: (0x000D) Ratio=0 @ 2568
+2024-04-21 10:35:15,142 DEBUG [exifread] [classes.py:289] -  GPSImgDirectionRef: (0x0010) ASCII=T @ 2420
+2024-04-21 10:35:15,142 DEBUG [exifread] [classes.py:289] -  GPSImgDirection: (0x0011) Ratio=89655/4426 @ 2576
+2024-04-21 10:35:15,142 DEBUG [exifread] [classes.py:289] -  GPSDestBearingRef: (0x0017) ASCII=T @ 2444
+2024-04-21 10:35:15,142 DEBUG [exifread] [classes.py:289] -  GPSDestBearing: (0x0018) Ratio=89655/4426 @ 2584
+2024-04-21 10:35:15,142 DEBUG [exifread] [classes.py:289] -  GPSDate: (0x001D) ASCII=2024:04:01 @ 2592
+2024-04-21 10:35:15,142 DEBUG [exifread] [classes.py:289] -  Tag 0x001F: (0x001F) Ratio=187577/6173 @ 2604
+2024-04-21 10:35:15,143 DEBUG [exifread] [classes.py:289] -  GPSInfo: (0x8825) Long=2302 @ 138
+2024-04-21 10:35:15,143 DEBUG [exifread] [__init__.py:286] - Exif SubIFD at offset 216:
+2024-04-21 10:35:15,143 DEBUG [exifread] [classes.py:289] -  ExposureTime: (0x829A) Ratio=1/120 @ 618
+2024-04-21 10:35:15,143 DEBUG [exifread] [classes.py:289] -  FNumber: (0x829D) Ratio=9/5 @ 626
+2024-04-21 10:35:15,143 DEBUG [exifread] [classes.py:289] -  ExposureProgram: (0x8822) Short=Program Normal @ 250
+2024-04-21 10:35:15,143 DEBUG [exifread] [classes.py:289] -  ISOSpeedRatings: (0x8827) Short=50 @ 262
+2024-04-21 10:35:15,143 DEBUG [exifread] [classes.py:289] -  ExifVersion: (0x9000) Undefined=0232 @ 274
+2024-04-21 10:35:15,143 DEBUG [exifread] [classes.py:289] -  DateTimeOriginal: (0x9003) ASCII=2024:04:01 10:12:19 @ 634
+2024-04-21 10:35:15,144 DEBUG [exifread] [classes.py:289] -  DateTimeDigitized: (0x9004) ASCII=2024:04:01 10:12:19 @ 654
+2024-04-21 10:35:15,144 DEBUG [exifread] [classes.py:289] -  OffsetTime: (0x9010) ASCII=+09:00 @ 674
+2024-04-21 10:35:15,144 DEBUG [exifread] [classes.py:289] -  OffsetTimeOriginal: (0x9011) ASCII=+09:00 @ 682
+2024-04-21 10:35:15,144 DEBUG [exifread] [classes.py:289] -  OffsetTimeDigitized: (0x9012) ASCII=+09:00 @ 690
+2024-04-21 10:35:15,144 DEBUG [exifread] [classes.py:289] -  ShutterSpeedValue: (0x9201) Signed Ratio=222125/32154 @ 698
+2024-04-21 10:35:15,144 DEBUG [exifread] [classes.py:289] -  ApertureValue: (0x9202) Ratio=54823/32325 @ 706
+2024-04-21 10:35:15,144 DEBUG [exifread] [classes.py:289] -  BrightnessValue: (0x9203) Signed Ratio=271782/51223 @ 714
+2024-04-21 10:35:15,144 DEBUG [exifread] [classes.py:289] -  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 722
+2024-04-21 10:35:15,145 DEBUG [exifread] [classes.py:289] -  MeteringMode: (0x9207) Short=Pattern @ 394
+2024-04-21 10:35:15,145 DEBUG [exifread] [classes.py:289] -  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 406
+2024-04-21 10:35:15,145 DEBUG [exifread] [classes.py:289] -  FocalLength: (0x920A) Ratio=17/4 @ 730
+2024-04-21 10:35:15,145 DEBUG [exifread] [classes.py:289] -  SubjectArea: (0x9214) Short=[1938, 1454, 2141, 1346] @ 738
+2024-04-21 10:35:15,149 DEBUG [exifread] [classes.py:289] -  MakerNote: (0x927C) Undefined=[65, 112, 112, 108, 101, 32, 105, 79, 83, 0, 0, 1, 77, 77, 0, 42, 0, 1, 0, 9, ... ] @ 746
+2024-04-21 10:35:15,149 DEBUG [exifread] [classes.py:289] -  SubSecTimeOriginal: (0x9291) ASCII=920 @ 454
+2024-04-21 10:35:15,149 DEBUG [exifread] [classes.py:289] -  SubSecTimeDigitized: (0x9292) ASCII=920 @ 466
+2024-04-21 10:35:15,150 DEBUG [exifread] [classes.py:289] -  ColorSpace: (0xA001) Short=Uncalibrated @ 478
+2024-04-21 10:35:15,150 DEBUG [exifread] [classes.py:289] -  ExifImageWidth: (0xA002) Long=4032 @ 490
+2024-04-21 10:35:15,150 DEBUG [exifread] [classes.py:289] -  ExifImageLength: (0xA003) Long=3024 @ 502
+2024-04-21 10:35:15,150 DEBUG [exifread] [classes.py:289] -  SensingMethod: (0xA217) Short=One-chip color area @ 514
+2024-04-21 10:35:15,150 DEBUG [exifread] [classes.py:289] -  SceneType: (0xA301) Undefined=Directly Photographed @ 526
+2024-04-21 10:35:15,150 DEBUG [exifread] [classes.py:289] -  ExposureMode: (0xA402) Short=Auto Exposure @ 538
+2024-04-21 10:35:15,150 DEBUG [exifread] [classes.py:289] -  WhiteBalance: (0xA403) Short=Auto @ 550
+2024-04-21 10:35:15,150 DEBUG [exifread] [classes.py:289] -  FocalLengthIn35mmFilm: (0xA405) Short=25 @ 562
+2024-04-21 10:35:15,151 DEBUG [exifread] [classes.py:289] -  LensSpecification: (0xA432) Ratio=[807365/524263, 17/4, 9/5, 12/5] @ 2218
+2024-04-21 10:35:15,151 DEBUG [exifread] [classes.py:289] -  LensMake: (0xA433) ASCII=Apple @ 2250
+2024-04-21 10:35:15,151 DEBUG [exifread] [classes.py:289] -  LensModel: (0xA434) ASCII=iPhone 11 back dual wide camera 4.25mm f/1.8 @ 2256
+2024-04-21 10:35:15,151 DEBUG [exifread] [classes.py:289] -  Tag 0xA460: (0xA460) Short=2 @ 610
+2024-04-21 10:35:15,151 DEBUG [exifread] [classes.py:289] -  Tag 0x0001: (0x0001) Signed Long=14 @ 10
+2024-04-21 10:35:15,153 DEBUG [exifread] [classes.py:289] -  Tag 0x0002: (0x0002) Undefined=[143, 0, 149, 0, 143, 0, 149, 0, 159, 0, 166, 0, 165, 0, 157, 0, 143, 0, 253, 0, ... ] @ 524
+2024-04-21 10:35:15,153 DEBUG [exifread] [classes.py:289] -  Tag 0x0003: (0x0003) Undefined=[6, 7, 8, 85, 102, 108, 97, 103, 115, 85, 118, 97, 108, 117, 101, 89, 116, 105, 109, 101, ... ] @ 1036
+2024-04-21 10:35:15,153 DEBUG [exifread] [classes.py:289] -  Tag 0x0004: (0x0004) Signed Long=1 @ 46
+2024-04-21 10:35:15,153 DEBUG [exifread] [classes.py:289] -  Tag 0x0005: (0x0005) Signed Long=188 @ 58
+2024-04-21 10:35:15,154 DEBUG [exifread] [classes.py:289] -  Tag 0x0006: (0x0006) Signed Long=185 @ 70
+2024-04-21 10:35:15,154 DEBUG [exifread] [classes.py:289] -  Tag 0x0007: (0x0007) Signed Long=1 @ 82
+2024-04-21 10:35:15,154 DEBUG [exifread] [classes.py:289] -  Tag 0x0008: (0x0008) Signed Ratio=[41192355/170131456, 28427/79, 256/205] @ 1140
+2024-04-21 10:35:15,154 DEBUG [exifread] [classes.py:289] -  Tag 0x000C: (0x000C) Signed Ratio=[1048576/549, 67112487/105295456] @ 1164
+2024-04-21 10:35:15,154 DEBUG [exifread] [classes.py:289] -  Tag 0x000D: (0x000D) Signed Long=22 @ 118
+2024-04-21 10:35:15,154 DEBUG [exifread] [classes.py:289] -  Tag 0x000E: (0x000E) Signed Long=0 @ 130
+2024-04-21 10:35:15,154 DEBUG [exifread] [classes.py:289] -  Tag 0x0010: (0x0010) Signed Long=1 @ 142
+2024-04-21 10:35:15,155 DEBUG [exifread] [classes.py:289] -  Tag 0x0014: (0x0014) Signed Long=10 @ 154
+2024-04-21 10:35:15,155 DEBUG [exifread] [classes.py:289] -  Tag 0x0019: (0x0019) Signed Long=2 @ 178
+2024-04-21 10:35:15,155 DEBUG [exifread] [classes.py:289] -  Tag 0x001A: (0x001A) ASCII=-EC4B- @ 1188
+2024-04-21 10:35:15,155 DEBUG [exifread] [classes.py:289] -  Tag 0x001F: (0x001F) Signed Long=0 @ 202
+2024-04-21 10:35:15,155 DEBUG [exifread] [classes.py:289] -  Tag 0x0020: (0x0020) ASCII=494A-AC5A-443AA59198B6 @ 1194
+2024-04-21 10:35:15,155 DEBUG [exifread] [classes.py:289] -  Tag 0x0021: (0x0021) Signed Ratio=3342336/0 @ 1231
+2024-04-21 10:35:15,155 DEBUG [exifread] [classes.py:289] -  Tag 0x0023: (0x0023) Signed Long=[9306115, 464781312] @ 1239
+2024-04-21 10:35:15,155 DEBUG [exifread] [classes.py:289] -  Tag 0x0026: (0x0026) Signed Long=3 @ 262
+2024-04-21 10:35:15,156 DEBUG [exifread] [classes.py:289] -  Tag 0x0027: (0x0027) Signed Ratio=893791557/876102445 @ 1255
+2024-04-21 10:35:15,156 DEBUG [exifread] [classes.py:289] -  Tag 0x0028: (0x0028) Signed Long=1 @ 286
+2024-04-21 10:35:15,156 DEBUG [exifread] [classes.py:289] -  Tag 0x002B: (0x002B) ASCII=4894-8B7B-A7C4B11ED33D @ 1263
+2024-04-21 10:35:15,156 DEBUG [exifread] [classes.py:289] -  Tag 0x002D: (0x002D) Signed Long=5735 @ 310
+2024-04-21 10:35:15,156 DEBUG [exifread] [classes.py:289] -  Tag 0x002E: (0x002E) Signed Long=1 @ 322
+2024-04-21 10:35:15,156 DEBUG [exifread] [classes.py:289] -  Tag 0x002F: (0x002F) Signed Long=234 @ 334
+2024-04-21 10:35:15,156 DEBUG [exifread] [classes.py:289] -  Tag 0x0033: (0x0033) Signed Long=4096 @ 346
+2024-04-21 10:35:15,156 DEBUG [exifread] [classes.py:289] -  Tag 0x0034: (0x0034) Signed Long=4 @ 358
+2024-04-21 10:35:15,157 DEBUG [exifread] [classes.py:289] -  Tag 0x0035: (0x0035) Signed Long=3 @ 370
+2024-04-21 10:35:15,157 DEBUG [exifread] [classes.py:289] -  Tag 0x0036: (0x0036) Signed Long=2914 @ 382
+2024-04-21 10:35:15,157 DEBUG [exifread] [classes.py:289] -  Tag 0x0037: (0x0037) Signed Long=4 @ 394
+2024-04-21 10:35:15,157 DEBUG [exifread] [classes.py:289] -  Tag 0x003A: (0x003A) Signed Long=4 @ 406
+2024-04-21 10:35:15,157 DEBUG [exifread] [classes.py:289] -  Tag 0x003B: (0x003B) Signed Long=1 @ 418
+2024-04-21 10:35:15,157 DEBUG [exifread] [classes.py:289] -  Tag 0x003C: (0x003C) Signed Long=4 @ 430
+2024-04-21 10:35:15,157 DEBUG [exifread] [classes.py:289] -  Tag 0x0041: (0x0041) Signed Long=0 @ 442
+2024-04-21 10:35:15,157 DEBUG [exifread] [classes.py:289] -  Tag 0x004A: (0x004A) Signed Long=2 @ 454
+2024-04-21 10:35:15,158 DEBUG [exifread] [classes.py:289] -  Tag 0x004D: (0x004D) Signed Ratio=808505857/33752145 @ 1300
+2024-04-21 10:35:15,158 DEBUG [exifread] [classes.py:289] -  Tag 0x004E: (0x004E) Undefined=[49, 81, 50, 16, 1, 162, 5, 10, 210, 6, 7, 8, 9, 83, 50, 46, 49, 83, 50, 46, ... ] @ 1308
+2024-04-21 10:35:15,158 DEBUG [exifread] [classes.py:289] -  Tag 0x004F: (0x004F) Undefined=[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 12, 81, 197, 0, 7, 255, 231, 0, 0, 0, 17, 0, 0] @ 1429
+2024-04-21 10:35:15,158 DEBUG [exifread] [classes.py:289] -  Tag 0x0053: (0x0053) Signed Long=1 @ 502
+2024-04-21 10:35:15,159 DEBUG [root] [Logging.py:71] - Image Make:Apple
+2024-04-21 10:35:15,159 DEBUG [root] [Logging.py:71] - Image Model:iPhone 11
+2024-04-21 10:35:15,159 DEBUG [root] [Logging.py:71] - Image Orientation:Rotated 90 CW
+2024-04-21 10:35:15,159 DEBUG [root] [Logging.py:71] - Image XResolution:72
+2024-04-21 10:35:15,159 DEBUG [root] [Logging.py:71] - Image YResolution:72
+2024-04-21 10:35:15,159 DEBUG [root] [Logging.py:71] - Image ResolutionUnit:Pixels/Inch
+2024-04-21 10:35:15,159 DEBUG [root] [Logging.py:71] - Image Software:17.3.1
+2024-04-21 10:35:15,159 DEBUG [root] [Logging.py:71] - Image DateTime:2024:04:01 10:12:19
+2024-04-21 10:35:15,159 DEBUG [root] [Logging.py:71] - Image HostComputer:iPhone 11
+2024-04-21 10:35:15,159 DEBUG [root] [Logging.py:71] - Image ExifOffset:216
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSLatitudeRef:N
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSLatitude:[37, 33, 1379/100]
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSLongitudeRef:E
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSLongitude:[126, 52, 411/50]
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSAltitudeRef:0
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSAltitude:104959/3120
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSTimeStamp:[1, 12, 579/100]
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSSpeedRef:K
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSSpeed:0
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSImgDirectionRef:T
+2024-04-21 10:35:15,160 DEBUG [root] [Logging.py:71] - GPS GPSImgDirection:89655/4426
+2024-04-21 10:35:15,161 DEBUG [root] [Logging.py:71] - GPS GPSDestBearingRef:T
+2024-04-21 10:35:15,161 DEBUG [root] [Logging.py:71] - GPS GPSDestBearing:89655/4426
+2024-04-21 10:35:15,161 DEBUG [root] [Logging.py:71] - GPS GPSDate:2024:04:01
+2024-04-21 10:35:15,161 DEBUG [root] [Logging.py:71] - GPS Tag 0x001F:187577/6173
+2024-04-21 10:35:15,161 DEBUG [root] [Logging.py:71] - Image GPSInfo:2302
+2024-04-21 10:35:15,161 DEBUG [root] [Logging.py:71] - EXIF ExposureTime:1/120
+2024-04-21 10:35:15,161 DEBUG [root] [Logging.py:71] - EXIF FNumber:9/5
+2024-04-21 10:35:15,161 DEBUG [root] [Logging.py:71] - EXIF ExposureProgram:Program Normal
+2024-04-21 10:35:15,161 DEBUG [root] [Logging.py:71] - EXIF ISOSpeedRatings:50
+2024-04-21 10:35:15,161 DEBUG [root] [Logging.py:71] - EXIF ExifVersion:0232
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - EXIF DateTimeOriginal:2024:04:01 10:12:19
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - DateTimeOriginal : 2024:04:01 10:12:19
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - EXIF DateTimeDigitized:2024:04:01 10:12:19
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - EXIF OffsetTime:+09:00
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - EXIF OffsetTimeOriginal:+09:00
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - EXIF OffsetTimeDigitized:+09:00
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - EXIF ShutterSpeedValue:222125/32154
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - EXIF ApertureValue:54823/32325
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - EXIF BrightnessValue:271782/51223
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - EXIF ExposureBiasValue:0
+2024-04-21 10:35:15,162 DEBUG [root] [Logging.py:71] - EXIF MeteringMode:Pattern
+2024-04-21 10:35:15,163 DEBUG [root] [Logging.py:71] - EXIF Flash:Flash did not fire, compulsory flash mode
+2024-04-21 10:35:15,163 DEBUG [root] [Logging.py:71] - EXIF FocalLength:17/4
+2024-04-21 10:35:15,163 DEBUG [root] [Logging.py:71] - EXIF SubjectArea:[1938, 1454, 2141, 1346]
+2024-04-21 10:35:15,163 DEBUG [root] [Logging.py:71] - EXIF MakerNote:[65, 112, 112, 108, 101, 32, 105, 79, 83, 0, 0, 1, 77, 77, 0, 42, 0, 1, 0, 9, ... ]
+2024-04-21 10:35:15,163 DEBUG [root] [Logging.py:71] - EXIF SubSecTimeOriginal:920
+2024-04-21 10:35:15,163 DEBUG [root] [Logging.py:71] - EXIF SubSecTimeDigitized:920
+2024-04-21 10:35:15,163 DEBUG [root] [Logging.py:71] - EXIF ColorSpace:Uncalibrated
+2024-04-21 10:35:15,163 DEBUG [root] [Logging.py:71] - EXIF ExifImageWidth:4032
+2024-04-21 10:35:15,163 DEBUG [root] [Logging.py:71] - EXIF ExifImageLength:3024
+2024-04-21 10:35:15,163 DEBUG [root] [Logging.py:71] - EXIF SensingMethod:One-chip color area
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - EXIF SceneType:Directly Photographed
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - EXIF ExposureMode:Auto Exposure
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - EXIF WhiteBalance:Auto
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - EXIF FocalLengthIn35mmFilm:25
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - EXIF LensSpecification:[807365/524263, 17/4, 9/5, 12/5]
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - EXIF LensMake:Apple
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - EXIF LensModel:iPhone 11 back dual wide camera 4.25mm f/1.8
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - EXIF Tag 0xA460:2
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0001:14
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0002:[143, 0, 149, 0, 143, 0, 149, 0, 159, 0, 166, 0, 165, 0, 157, 0, 143, 0, 253, 0, ... ]
+2024-04-21 10:35:15,164 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0003:[6, 7, 8, 85, 102, 108, 97, 103, 115, 85, 118, 97, 108, 117, 101, 89, 116, 105, 109, 101, ... ]
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0004:1
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0005:188
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0006:185
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0007:1
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0008:[41192355/170131456, 28427/79, 256/205]
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x000C:[1048576/549, 67112487/105295456]
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x000D:22
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x000E:0
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0010:1
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0014:10
+2024-04-21 10:35:15,165 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0019:2
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x001A:-EC4B-
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x001F:0
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0020:494A-AC5A-443AA59198B6
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0021:3342336/0
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0023:[9306115, 464781312]
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0026:3
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0027:893791557/876102445
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0028:1
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002B:4894-8B7B-A7C4B11ED33D
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002D:5735
+2024-04-21 10:35:15,166 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002E:1
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002F:234
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0033:4096
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0034:4
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0035:3
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0036:2914
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0037:4
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x003A:4
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x003B:1
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x003C:4
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0041:0
+2024-04-21 10:35:15,167 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004A:2
+2024-04-21 10:35:15,168 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004D:808505857/33752145
+2024-04-21 10:35:15,168 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004E:[49, 81, 50, 16, 1, 162, 5, 10, 210, 6, 7, 8, 9, 83, 50, 46, 49, 83, 50, 46, ... ]
+2024-04-21 10:35:15,168 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004F:[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 12, 81, 197, 0, 7, 255, 231, 0, 0, 0, 17, 0, 0]
+2024-04-21 10:35:15,168 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0053:1
+2024-04-21 10:35:15,303 INFO [root] [Logging.py:74] - Converted ./target/IMG_5582.HEIC to ./target/IMG_5582.jpg
+2024-04-21 10:35:15,309 INFO [root] [Logging.py:74] - ./target
+2024-04-21 10:35:15,310 ERROR [root] [Logging.py:77] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 10:35:15,310 INFO [root] [Logging.py:74] - ./target
+2024-04-21 10:35:16,160 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'hdlr'>
+2024-04-21 10:35:16,160 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'dinf'>
+2024-04-21 10:35:16,160 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'pitm'>
+2024-04-21 10:35:16,161 DEBUG [exifread] [heic.py:191] - HEIC: found Exif 'infe' box
+2024-04-21 10:35:16,161 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'iref'>
+2024-04-21 10:35:16,161 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'iprp'>
+2024-04-21 10:35:16,162 DEBUG [exifread] [heic.py:166] - HEIC: skipping <box 'idat'>
+2024-04-21 10:35:16,162 DEBUG [exifread] [heic.py:210] - HEIC: 51 iloc items
+2024-04-21 10:35:16,162 DEBUG [exifread] [heic.py:242] - HEIC: found Exif location.
+2024-04-21 10:35:16,162 DEBUG [exifread] [__init__.py:261] - Endian format is M (Motorola)
+2024-04-21 10:35:16,163 DEBUG [exifread] [__init__.py:280] - IFD 0 (Image) at offset 8:
+2024-04-21 10:35:16,163 DEBUG [exifread] [classes.py:289] -  Make: (0x010F) ASCII=Apple @ 146
+2024-04-21 10:35:16,163 DEBUG [exifread] [classes.py:289] -  Model: (0x0110) ASCII=iPhone 11 @ 152
+2024-04-21 10:35:16,163 DEBUG [exifread] [classes.py:289] -  Orientation: (0x0112) Short=Rotated 90 CW @ 42
+2024-04-21 10:35:16,163 DEBUG [exifread] [classes.py:289] -  XResolution: (0x011A) Ratio=72 @ 162
+2024-04-21 10:35:16,163 DEBUG [exifread] [classes.py:289] -  YResolution: (0x011B) Ratio=72 @ 170
+2024-04-21 10:35:16,163 DEBUG [exifread] [classes.py:289] -  ResolutionUnit: (0x0128) Short=Pixels/Inch @ 78
+2024-04-21 10:35:16,163 DEBUG [exifread] [classes.py:289] -  Software: (0x0131) ASCII=17.3.1 @ 178
+2024-04-21 10:35:16,164 DEBUG [exifread] [classes.py:289] -  DateTime: (0x0132) ASCII=2024:04:01 10:12:32 @ 186
+2024-04-21 10:35:16,164 DEBUG [exifread] [classes.py:289] -  HostComputer: (0x013C) ASCII=iPhone 11 @ 206
+2024-04-21 10:35:16,164 DEBUG [exifread] [classes.py:289] -  ExifOffset: (0x8769) Long=216 @ 126
+2024-04-21 10:35:16,164 DEBUG [exifread] [classes.py:269] - GPS SubIFD at offset 2302:
+2024-04-21 10:35:16,164 DEBUG [exifread] [classes.py:289] -  GPSLatitudeRef: (0x0001) ASCII=N @ 2312
+2024-04-21 10:35:16,164 DEBUG [exifread] [classes.py:289] -  GPSLatitude: (0x0002) Ratio=[37, 33, 1379/100] @ 2488
+2024-04-21 10:35:16,164 DEBUG [exifread] [classes.py:289] -  GPSLongitudeRef: (0x0003) ASCII=E @ 2336
+2024-04-21 10:35:16,165 DEBUG [exifread] [classes.py:289] -  GPSLongitude: (0x0004) Ratio=[126, 52, 411/50] @ 2512
+2024-04-21 10:35:16,165 DEBUG [exifread] [classes.py:289] -  GPSAltitudeRef: (0x0005) Byte=0 @ 2360
+2024-04-21 10:35:16,165 DEBUG [exifread] [classes.py:289] -  GPSAltitude: (0x0006) Ratio=104959/3120 @ 2536
+2024-04-21 10:35:16,165 DEBUG [exifread] [classes.py:289] -  GPSTimeStamp: (0x0007) Ratio=[1, 12, 579/100] @ 2544
+2024-04-21 10:35:16,165 DEBUG [exifread] [classes.py:289] -  GPSSpeedRef: (0x000C) ASCII=K @ 2396
+2024-04-21 10:35:16,165 DEBUG [exifread] [classes.py:289] -  GPSSpeed: (0x000D) Ratio=0 @ 2568
+2024-04-21 10:35:16,165 DEBUG [exifread] [classes.py:289] -  GPSImgDirectionRef: (0x0010) ASCII=T @ 2420
+2024-04-21 10:35:16,165 DEBUG [exifread] [classes.py:289] -  GPSImgDirection: (0x0011) Ratio=127318/6147 @ 2576
+2024-04-21 10:35:16,166 DEBUG [exifread] [classes.py:289] -  GPSDestBearingRef: (0x0017) ASCII=T @ 2444
+2024-04-21 10:35:16,166 DEBUG [exifread] [classes.py:289] -  GPSDestBearing: (0x0018) Ratio=127318/6147 @ 2584
+2024-04-21 10:35:16,166 DEBUG [exifread] [classes.py:289] -  GPSDate: (0x001D) ASCII=2024:04:01 @ 2592
+2024-04-21 10:35:16,166 DEBUG [exifread] [classes.py:289] -  Tag 0x001F: (0x001F) Ratio=187577/6173 @ 2604
+2024-04-21 10:35:16,166 DEBUG [exifread] [classes.py:289] -  GPSInfo: (0x8825) Long=2302 @ 138
+2024-04-21 10:35:16,166 DEBUG [exifread] [__init__.py:286] - Exif SubIFD at offset 216:
+2024-04-21 10:35:16,166 DEBUG [exifread] [classes.py:289] -  ExposureTime: (0x829A) Ratio=1/120 @ 618
+2024-04-21 10:35:16,166 DEBUG [exifread] [classes.py:289] -  FNumber: (0x829D) Ratio=9/5 @ 626
+2024-04-21 10:35:16,167 DEBUG [exifread] [classes.py:289] -  ExposureProgram: (0x8822) Short=Program Normal @ 250
+2024-04-21 10:35:16,167 DEBUG [exifread] [classes.py:289] -  ISOSpeedRatings: (0x8827) Short=50 @ 262
+2024-04-21 10:35:16,167 DEBUG [exifread] [classes.py:289] -  ExifVersion: (0x9000) Undefined=0232 @ 274
+2024-04-21 10:35:16,167 DEBUG [exifread] [classes.py:289] -  DateTimeOriginal: (0x9003) ASCII=2024:04:01 10:12:32 @ 634
+2024-04-21 10:35:16,167 DEBUG [exifread] [classes.py:289] -  DateTimeDigitized: (0x9004) ASCII=2024:04:01 10:12:32 @ 654
+2024-04-21 10:35:16,167 DEBUG [exifread] [classes.py:289] -  OffsetTime: (0x9010) ASCII=+09:00 @ 674
+2024-04-21 10:35:16,167 DEBUG [exifread] [classes.py:289] -  OffsetTimeOriginal: (0x9011) ASCII=+09:00 @ 682
+2024-04-21 10:35:16,167 DEBUG [exifread] [classes.py:289] -  OffsetTimeDigitized: (0x9012) ASCII=+09:00 @ 690
+2024-04-21 10:35:16,168 DEBUG [exifread] [classes.py:289] -  ShutterSpeedValue: (0x9201) Signed Ratio=222125/32154 @ 698
+2024-04-21 10:35:16,168 DEBUG [exifread] [classes.py:289] -  ApertureValue: (0x9202) Ratio=54823/32325 @ 706
+2024-04-21 10:35:16,168 DEBUG [exifread] [classes.py:289] -  BrightnessValue: (0x9203) Signed Ratio=103833/19463 @ 714
+2024-04-21 10:35:16,168 DEBUG [exifread] [classes.py:289] -  ExposureBiasValue: (0x9204) Signed Ratio=0 @ 722
+2024-04-21 10:35:16,168 DEBUG [exifread] [classes.py:289] -  MeteringMode: (0x9207) Short=Pattern @ 394
+2024-04-21 10:35:16,168 DEBUG [exifread] [classes.py:289] -  Flash: (0x9209) Short=Flash did not fire, compulsory flash mode @ 406
+2024-04-21 10:35:16,168 DEBUG [exifread] [classes.py:289] -  FocalLength: (0x920A) Ratio=17/4 @ 730
+2024-04-21 10:35:16,169 DEBUG [exifread] [classes.py:289] -  SubjectArea: (0x9214) Short=[1943, 1458, 2147, 1349] @ 738
+2024-04-21 10:35:16,173 DEBUG [exifread] [classes.py:289] -  MakerNote: (0x927C) Undefined=[65, 112, 112, 108, 101, 32, 105, 79, 83, 0, 0, 1, 77, 77, 0, 42, 0, 1, 0, 9, ... ] @ 746
+2024-04-21 10:35:16,173 DEBUG [exifread] [classes.py:289] -  SubSecTimeOriginal: (0x9291) ASCII=098 @ 454
+2024-04-21 10:35:16,173 DEBUG [exifread] [classes.py:289] -  SubSecTimeDigitized: (0x9292) ASCII=098 @ 466
+2024-04-21 10:35:16,173 DEBUG [exifread] [classes.py:289] -  ColorSpace: (0xA001) Short=Uncalibrated @ 478
+2024-04-21 10:35:16,173 DEBUG [exifread] [classes.py:289] -  ExifImageWidth: (0xA002) Long=4032 @ 490
+2024-04-21 10:35:16,173 DEBUG [exifread] [classes.py:289] -  ExifImageLength: (0xA003) Long=3024 @ 502
+2024-04-21 10:35:16,173 DEBUG [exifread] [classes.py:289] -  SensingMethod: (0xA217) Short=One-chip color area @ 514
+2024-04-21 10:35:16,174 DEBUG [exifread] [classes.py:289] -  SceneType: (0xA301) Undefined=Directly Photographed @ 526
+2024-04-21 10:35:16,174 DEBUG [exifread] [classes.py:289] -  ExposureMode: (0xA402) Short=Auto Exposure @ 538
+2024-04-21 10:35:16,174 DEBUG [exifread] [classes.py:289] -  WhiteBalance: (0xA403) Short=Auto @ 550
+2024-04-21 10:35:16,174 DEBUG [exifread] [classes.py:289] -  FocalLengthIn35mmFilm: (0xA405) Short=25 @ 562
+2024-04-21 10:35:16,174 DEBUG [exifread] [classes.py:289] -  LensSpecification: (0xA432) Ratio=[807365/524263, 17/4, 9/5, 12/5] @ 2218
+2024-04-21 10:35:16,174 DEBUG [exifread] [classes.py:289] -  LensMake: (0xA433) ASCII=Apple @ 2250
+2024-04-21 10:35:16,174 DEBUG [exifread] [classes.py:289] -  LensModel: (0xA434) ASCII=iPhone 11 back dual wide camera 4.25mm f/1.8 @ 2256
+2024-04-21 10:35:16,174 DEBUG [exifread] [classes.py:289] -  Tag 0xA460: (0xA460) Short=2 @ 610
+2024-04-21 10:35:16,175 DEBUG [exifread] [classes.py:289] -  Tag 0x0001: (0x0001) Signed Long=14 @ 10
+2024-04-21 10:35:16,176 DEBUG [exifread] [classes.py:289] -  Tag 0x0002: (0x0002) Undefined=[40, 0, 38, 0, 38, 0, 39, 0, 43, 0, 48, 0, 52, 0, 54, 0, 54, 0, 206, 0, ... ] @ 524
+2024-04-21 10:35:16,177 DEBUG [exifread] [classes.py:289] -  Tag 0x0003: (0x0003) Undefined=[6, 7, 8, 85, 102, 108, 97, 103, 115, 85, 118, 97, 108, 117, 101, 89, 116, 105, 109, 101, ... ] @ 1036
+2024-04-21 10:35:16,177 DEBUG [exifread] [classes.py:289] -  Tag 0x0004: (0x0004) Signed Long=1 @ 46
+2024-04-21 10:35:16,177 DEBUG [exifread] [classes.py:289] -  Tag 0x0005: (0x0005) Signed Long=186 @ 58
+2024-04-21 10:35:16,177 DEBUG [exifread] [classes.py:289] -  Tag 0x0006: (0x0006) Signed Long=187 @ 70
+2024-04-21 10:35:16,177 DEBUG [exifread] [classes.py:289] -  Tag 0x0007: (0x0007) Signed Long=1 @ 82
+2024-04-21 10:35:16,177 DEBUG [exifread] [classes.py:289] -  Tag 0x0008: (0x0008) Signed Ratio=[202047489/1912143872, 2669/5, 128/13] @ 1140
+2024-04-21 10:35:16,177 DEBUG [exifread] [classes.py:289] -  Tag 0x000C: (0x000C) Signed Ratio=[131072/549, 67112487/105295456] @ 1164
+2024-04-21 10:35:16,178 DEBUG [exifread] [classes.py:289] -  Tag 0x000D: (0x000D) Signed Long=24 @ 118
+2024-04-21 10:35:16,178 DEBUG [exifread] [classes.py:289] -  Tag 0x000E: (0x000E) Signed Long=0 @ 130
+2024-04-21 10:35:16,178 DEBUG [exifread] [classes.py:289] -  Tag 0x0010: (0x0010) Signed Long=1 @ 142
+2024-04-21 10:35:16,178 DEBUG [exifread] [classes.py:289] -  Tag 0x0014: (0x0014) Signed Long=10 @ 154
+2024-04-21 10:35:16,178 DEBUG [exifread] [classes.py:289] -  Tag 0x0019: (0x0019) Signed Long=2 @ 178
+2024-04-21 10:35:16,178 DEBUG [exifread] [classes.py:289] -  Tag 0x001A: (0x001A) ASCII=-D02B- @ 1188
+2024-04-21 10:35:16,178 DEBUG [exifread] [classes.py:289] -  Tag 0x001F: (0x001F) Signed Long=0 @ 202
+2024-04-21 10:35:16,178 DEBUG [exifread] [classes.py:289] -  Tag 0x0020: (0x0020) ASCII=4037-A5D8-52AB4DF85FBF @ 1194
+2024-04-21 10:35:16,179 DEBUG [exifread] [classes.py:289] -  Tag 0x0021: (0x0021) Signed Ratio=4587520/0 @ 1231
+2024-04-21 10:35:16,179 DEBUG [exifread] [classes.py:289] -  Tag 0x0023: (0x0023) Signed Long=[9306115, 170000384] @ 1239
+2024-04-21 10:35:16,179 DEBUG [exifread] [classes.py:289] -  Tag 0x0026: (0x0026) Signed Long=3 @ 262
+2024-04-21 10:35:16,179 DEBUG [exifread] [classes.py:289] -  Tag 0x0027: (0x0027) Signed Ratio=893463864/1128346157 @ 1255
+2024-04-21 10:35:16,179 DEBUG [exifread] [classes.py:289] -  Tag 0x0028: (0x0028) Signed Long=1 @ 286
+2024-04-21 10:35:16,179 DEBUG [exifread] [classes.py:289] -  Tag 0x002B: (0x002B) ASCII=4DDB-8BCE-BCD9833887BC @ 1263
+2024-04-21 10:35:16,179 DEBUG [exifread] [classes.py:289] -  Tag 0x002D: (0x002D) Signed Long=5818 @ 310
+2024-04-21 10:35:16,180 DEBUG [exifread] [classes.py:289] -  Tag 0x002E: (0x002E) Signed Long=1 @ 322
+2024-04-21 10:35:16,180 DEBUG [exifread] [classes.py:289] -  Tag 0x002F: (0x002F) Signed Long=221 @ 334
+2024-04-21 10:35:16,180 DEBUG [exifread] [classes.py:289] -  Tag 0x0033: (0x0033) Signed Long=4096 @ 346
+2024-04-21 10:35:16,180 DEBUG [exifread] [classes.py:289] -  Tag 0x0034: (0x0034) Signed Long=4 @ 358
+2024-04-21 10:35:16,180 DEBUG [exifread] [classes.py:289] -  Tag 0x0035: (0x0035) Signed Long=3 @ 370
+2024-04-21 10:35:16,180 DEBUG [exifread] [classes.py:289] -  Tag 0x0036: (0x0036) Signed Long=2874 @ 382
+2024-04-21 10:35:16,180 DEBUG [exifread] [classes.py:289] -  Tag 0x0037: (0x0037) Signed Long=4 @ 394
+2024-04-21 10:35:16,180 DEBUG [exifread] [classes.py:289] -  Tag 0x003A: (0x003A) Signed Long=4 @ 406
+2024-04-21 10:35:16,181 DEBUG [exifread] [classes.py:289] -  Tag 0x003B: (0x003B) Signed Long=1 @ 418
+2024-04-21 10:35:16,181 DEBUG [exifread] [classes.py:289] -  Tag 0x003C: (0x003C) Signed Long=4 @ 430
+2024-04-21 10:35:16,181 DEBUG [exifread] [classes.py:289] -  Tag 0x0041: (0x0041) Signed Long=0 @ 442
+2024-04-21 10:35:16,181 DEBUG [exifread] [classes.py:289] -  Tag 0x004A: (0x004A) Signed Long=2 @ 454
+2024-04-21 10:35:16,181 DEBUG [exifread] [classes.py:289] -  Tag 0x004D: (0x004D) Signed Ratio=808505857/33752145 @ 1300
+2024-04-21 10:35:16,182 DEBUG [exifread] [classes.py:289] -  Tag 0x004E: (0x004E) Undefined=[49, 81, 50, 16, 1, 162, 5, 10, 210, 6, 7, 8, 9, 83, 50, 46, 49, 83, 50, 46, ... ] @ 1308
+2024-04-21 10:35:16,182 DEBUG [exifread] [classes.py:289] -  Tag 0x004F: (0x004F) Undefined=[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 12, 81, 197, 0, 7, 255, 231, 0, 0, 0, 17, 0, 0] @ 1429
+2024-04-21 10:35:16,182 DEBUG [exifread] [classes.py:289] -  Tag 0x0053: (0x0053) Signed Long=1 @ 502
+2024-04-21 10:35:16,182 DEBUG [root] [Logging.py:71] - Image Make:Apple
+2024-04-21 10:35:16,182 DEBUG [root] [Logging.py:71] - Image Model:iPhone 11
+2024-04-21 10:35:16,182 DEBUG [root] [Logging.py:71] - Image Orientation:Rotated 90 CW
+2024-04-21 10:35:16,182 DEBUG [root] [Logging.py:71] - Image XResolution:72
+2024-04-21 10:35:16,182 DEBUG [root] [Logging.py:71] - Image YResolution:72
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - Image ResolutionUnit:Pixels/Inch
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - Image Software:17.3.1
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - Image DateTime:2024:04:01 10:12:32
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - Image HostComputer:iPhone 11
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - Image ExifOffset:216
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - GPS GPSLatitudeRef:N
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - GPS GPSLatitude:[37, 33, 1379/100]
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - GPS GPSLongitudeRef:E
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - GPS GPSLongitude:[126, 52, 411/50]
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - GPS GPSAltitudeRef:0
+2024-04-21 10:35:16,183 DEBUG [root] [Logging.py:71] - GPS GPSAltitude:104959/3120
+2024-04-21 10:35:16,184 DEBUG [root] [Logging.py:71] - GPS GPSTimeStamp:[1, 12, 579/100]
+2024-04-21 10:35:16,184 DEBUG [root] [Logging.py:71] - GPS GPSSpeedRef:K
+2024-04-21 10:35:16,184 DEBUG [root] [Logging.py:71] - GPS GPSSpeed:0
+2024-04-21 10:35:16,184 DEBUG [root] [Logging.py:71] - GPS GPSImgDirectionRef:T
+2024-04-21 10:35:16,184 DEBUG [root] [Logging.py:71] - GPS GPSImgDirection:127318/6147
+2024-04-21 10:35:16,184 DEBUG [root] [Logging.py:71] - GPS GPSDestBearingRef:T
+2024-04-21 10:35:16,184 DEBUG [root] [Logging.py:71] - GPS GPSDestBearing:127318/6147
+2024-04-21 10:35:16,184 DEBUG [root] [Logging.py:71] - GPS GPSDate:2024:04:01
+2024-04-21 10:35:16,184 DEBUG [root] [Logging.py:71] - GPS Tag 0x001F:187577/6173
+2024-04-21 10:35:16,184 DEBUG [root] [Logging.py:71] - Image GPSInfo:2302
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - EXIF ExposureTime:1/120
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - EXIF FNumber:9/5
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - EXIF ExposureProgram:Program Normal
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - EXIF ISOSpeedRatings:50
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - EXIF ExifVersion:0232
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - EXIF DateTimeOriginal:2024:04:01 10:12:32
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - DateTimeOriginal : 2024:04:01 10:12:32
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - EXIF DateTimeDigitized:2024:04:01 10:12:32
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - EXIF OffsetTime:+09:00
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - EXIF OffsetTimeOriginal:+09:00
+2024-04-21 10:35:16,185 DEBUG [root] [Logging.py:71] - EXIF OffsetTimeDigitized:+09:00
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF ShutterSpeedValue:222125/32154
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF ApertureValue:54823/32325
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF BrightnessValue:103833/19463
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF ExposureBiasValue:0
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF MeteringMode:Pattern
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF Flash:Flash did not fire, compulsory flash mode
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF FocalLength:17/4
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF SubjectArea:[1943, 1458, 2147, 1349]
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF MakerNote:[65, 112, 112, 108, 101, 32, 105, 79, 83, 0, 0, 1, 77, 77, 0, 42, 0, 1, 0, 9, ... ]
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF SubSecTimeOriginal:098
+2024-04-21 10:35:16,186 DEBUG [root] [Logging.py:71] - EXIF SubSecTimeDigitized:098
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF ColorSpace:Uncalibrated
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF ExifImageWidth:4032
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF ExifImageLength:3024
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF SensingMethod:One-chip color area
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF SceneType:Directly Photographed
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF ExposureMode:Auto Exposure
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF WhiteBalance:Auto
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF FocalLengthIn35mmFilm:25
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF LensSpecification:[807365/524263, 17/4, 9/5, 12/5]
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF LensMake:Apple
+2024-04-21 10:35:16,187 DEBUG [root] [Logging.py:71] - EXIF LensModel:iPhone 11 back dual wide camera 4.25mm f/1.8
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - EXIF Tag 0xA460:2
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0001:14
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0002:[40, 0, 38, 0, 38, 0, 39, 0, 43, 0, 48, 0, 52, 0, 54, 0, 54, 0, 206, 0, ... ]
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0003:[6, 7, 8, 85, 102, 108, 97, 103, 115, 85, 118, 97, 108, 117, 101, 89, 116, 105, 109, 101, ... ]
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0004:1
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0005:186
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0006:187
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0007:1
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0008:[202047489/1912143872, 2669/5, 128/13]
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x000C:[131072/549, 67112487/105295456]
+2024-04-21 10:35:16,188 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x000D:24
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x000E:0
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0010:1
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0014:10
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0019:2
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x001A:-D02B-
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x001F:0
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0020:4037-A5D8-52AB4DF85FBF
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0021:4587520/0
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0023:[9306115, 170000384]
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0026:3
+2024-04-21 10:35:16,189 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0027:893463864/1128346157
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0028:1
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002B:4DDB-8BCE-BCD9833887BC
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002D:5818
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002E:1
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x002F:221
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0033:4096
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0034:4
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0035:3
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0036:2874
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0037:4
+2024-04-21 10:35:16,190 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x003A:4
+2024-04-21 10:35:16,191 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x003B:1
+2024-04-21 10:35:16,191 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x003C:4
+2024-04-21 10:35:16,191 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0041:0
+2024-04-21 10:35:16,191 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004A:2
+2024-04-21 10:35:16,191 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004D:808505857/33752145
+2024-04-21 10:35:16,191 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004E:[49, 81, 50, 16, 1, 162, 5, 10, 210, 6, 7, 8, 9, 83, 50, 46, 49, 83, 50, 46, ... ]
+2024-04-21 10:35:16,191 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x004F:[0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 12, 81, 197, 0, 7, 255, 231, 0, 0, 0, 17, 0, 0]
+2024-04-21 10:35:16,191 DEBUG [root] [Logging.py:71] - MakerNote Tag 0x0053:1
+2024-04-21 10:35:16,326 INFO [root] [Logging.py:74] - Converted ./target/IMG_5583.HEIC to ./target/IMG_5583.jpg
+2024-04-21 10:35:16,332 INFO [root] [Logging.py:74] - ./target
+2024-04-21 10:35:16,333 ERROR [root] [Logging.py:77] - e=ValueError('Input is not a HEIF/AVIF file')
+2024-04-21 10:35:16,333 INFO [root] [Logging.py:74] - Finished
